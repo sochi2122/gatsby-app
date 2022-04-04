@@ -1,7 +1,6 @@
 ---
 templateKey: about-page
 path: /about
-<<<<<<< HEAD
 title: Simple tool to keep all of your notes organized!
 ---
 ### Take Note
