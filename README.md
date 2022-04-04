@@ -1,5 +1,7 @@
 # Gatsby App + Netlify CMS Starter App! 
 
+APP URL:  https://beautiful-axolotl-27dc2d.netlify.app/
+
 This app was built using a template from https://www.gatsbyjs.com/starters!
 
 The main idea of this app was to have an online notepad that could utilize short notes and images to keep track of random ideas and facts. 
