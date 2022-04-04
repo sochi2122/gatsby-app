@@ -17,8 +17,9 @@ I love these notes that are passwords for usernames and websites. I have already
   
   <img width="898" alt="Screen Shot 2022-04-04 at 1 13 58 AM" src="https://user-images.githubusercontent.com/90932673/161478464-45d2f4a1-c2ba-4b20-bff1-de9210b342bf.png" href="https://youtu.be/E33Z7-gY_js?t=37">
 
+The clip of this seinfeld episode below is my daily life. 
   
-  
+https://youtu.be/E33Z7-gY_js?t=37
 
 Therfore the goal was to build a quick and Easy Journal to use on the run. Write a quick note instead of texting it to your self and etc...
 
