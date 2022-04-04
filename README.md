@@ -12,9 +12,7 @@ There nothing like going into a meeting with while on a call and answering an em
 
 Notes end up in the wrong place and written the wrong way. 
 
-I love these notes that are passwords for usernames and websites. I have already forgotten but will need to revert to at a later time. 
-
-<a href="https://youtu.be/E33Z7-gY_js?t=37" img width="898" alt="Screen Shot 2022-04-04 at 1 13 58 AM" src="https://user-images.githubusercontent.com/90932673/161478279-e1d99d27-da1b-4bf8-bf13-8ab7cae3f537".>
+I love these notes that are passwords for usernames and websites. I have already forgotten but will need to have at a later time to figure out what my new password or account is for. 
 
   
   <img width="898" alt="Screen Shot 2022-04-04 at 1 13 58 AM" src="https://user-images.githubusercontent.com/90932673/161478464-45d2f4a1-c2ba-4b20-bff1-de9210b342bf.png" href="https://youtu.be/E33Z7-gY_js?t=37">
