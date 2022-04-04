@@ -1,6 +1,7 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
+<<<<<<< HEAD
 title: Simple tool to keep all of your notes organized!
 ---
 ### Take Note
@@ -14,3 +15,13 @@ The interesting feature about this app is that there are so few parameters defin
 
 ### Easily Accessible
 Use this app and access it from any web enabled device.
+
+
+
+
+
+
+
+
+
+
