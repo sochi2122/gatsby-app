@@ -14,7 +14,7 @@ Notes end up in the wrong place and written the wrong way.
 
 I love these notes that are passwords for usernames and websites. I have already forgotten but will need to revert to at a later time. 
 
-<img width="898" alt="Screen Shot 2022-04-04 at 1 13 58 AM" src="https://user-images.githubusercontent.com/90932673/161478279-e1d99d27-da1b-4bf8-bf13-8ab7cae3f537.png" https://youtu.be/E33Z7-gY_js?t=37 >
+<a href="https://youtu.be/E33Z7-gY_js?t=37" img width="898" alt="Screen Shot 2022-04-04 at 1 13 58 AM" src="https://user-images.githubusercontent.com/90932673/161478279-e1d99d27-da1b-4bf8-bf13-8ab7cae3f537">
 
 
 Therfore the goal was to build a quick and Easy Journal to use on the run. Write a quick note instead of texting it to your self and etc...
